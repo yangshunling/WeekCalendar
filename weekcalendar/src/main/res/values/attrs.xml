@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="WeekCalendar">
+        <attr name="wc_headerHeight" format="dimension"/>
+        <attr name="wc_headerBgColor" format="color"/>
+        <attr name="wc_calendarHeight" format="dimension"/>
+        <attr name="wc_show_week" format="boolean"/>
+    </declare-styleable>
+
+</resources>
